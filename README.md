@@ -12,7 +12,7 @@ A text-based Monopoly game developed in MATLAB for the Purdue PAGE program 2025.
 <img width="603" height="415" alt="LotteryGameUI" src="https://github.com/user-attachments/assets/262a3d5b-ccf9-45bb-b30d-19cca0c1ed07" />
 
 4. Lottery Game reveal effect
-<img width="1292" height="601" alt="截圖 2026-02-04 上午10 59 28" src="https://github.com/user-attachments/assets/48577955-bb75-4f34-8791-b1fe1082d69d" />
+<img width="609" height="171" alt="revealEffect" src="https://github.com/user-attachments/assets/94fc14a3-d241-4ab0-a601-686c395600b8" />
 
 5. Lottery Game result
 <img width="604" height="214" alt="LotteryResult" src="https://github.com/user-attachments/assets/1bf24916-b801-4b47-9267-7f4cc906be99" />
